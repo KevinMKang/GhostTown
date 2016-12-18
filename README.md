@@ -1,7 +1,7 @@
 # GhostTown
 A game for TOJAM 2015.
 
-A video game developed by Phoebe Zhou, Jerry Xu, Kevin Kang, and Justin Duong for TOJAM 2015. Featuered here : https://itch.io/jam/tojam-10/rate/25181.
+A video game developed by Phoebe Zhou, Jerry Xu, Kevin Kang, and Justin Duong for TOJAM 2015. Featured here : https://itch.io/jam/tojam-10/rate/25181.
 
 Developed using Java and Swing. Development was done across three days.
 
