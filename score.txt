@@ -1,0 +1,10 @@
+jerry: 10000
+Kevin 1: 58000
+Kevin 2: 61202
+Kevin 3: 10558
+qevin 4: 88869
+cevin 5: 69140
+ evin 6: 10090
+Kevin 7: 89767
+Kevin 8: 61559
+Kevin 9: 999999
